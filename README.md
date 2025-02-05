@@ -61,6 +61,13 @@ The dataset used in this project is **Retail Store Performance** from Kaggle, co
 - Electronics showed **the widest price range**, indicating premium product sales.
 - **Beauty products had the lowest price range**, making them a frequent purchase.
 
+### **8️⃣ Product category distribution by total amount**
+- Electronic products have a **higher median value** than other product categories.
+- There are **outliers** in the clothing category
+
+### **9️⃣ Product category distribution by total amount**
+- Female have a **higher median value** than male.
+
 ## 📈 Recommendations & Future Improvements
 🔹 **Enhance Promotions in Early Year:** Implement aggressive marketing campaigns in **February & March** to boost sales.
 🔹 **Personalized Marketing:** Target customers based on **age-based preferences** to improve engagement.
@@ -75,3 +82,8 @@ This project provides valuable insights into customer behavior, seasonal trends,
 🚀 **Next Steps:** Integrating **Machine Learning** for demand forecasting & customer segmentation!
 
 📩 **Feedback & Contributions are Welcome!**
+- **Email**: [My Email](muhamadsalimalwan10@gmail.com)
+- **Instagram**: [My Instagram](https://www.instagram.com/salimalwan23/?next=%2F)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhamad-salim-alwan/)
+- **GitHub**: [My GitHub Profile](https://github.com/salim23-png)
+- **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/muhamadsalimalwan)
