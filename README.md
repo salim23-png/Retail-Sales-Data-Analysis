@@ -61,11 +61,7 @@ The dataset used in this project is **Retail Store Performance** from Kaggle, co
 - Electronics showed **the widest price range**, indicating premium product sales.
 - **Beauty products had the lowest price range**, making them a frequent purchase.
 
-### **8️⃣ Product category distribution by total amount**
-- Electronic products have a **higher median value** than other product categories.
-- There are **outliers** in the clothing category
-
-### **9️⃣ Product category distribution by total amount**
+### **8️⃣ Customer spending behavior based on their gender**
 - Female have a **higher median value** than male.
 
 ## 📈 Recommendations & Future Improvements
