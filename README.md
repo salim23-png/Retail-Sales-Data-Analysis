@@ -75,11 +75,10 @@ The dataset used in this project is **Retail Store Performance** from Kaggle, co
 This project provides valuable insights into customer behavior, seasonal trends, and category preferences in the retail sector. The findings can guide businesses in optimizing inventory, marketing, and pricing strategies.
 
 ---
-🚀 **Next Steps:** Integrating **Machine Learning** for demand forecasting & customer segmentation!
 
 📩 **Feedback & Contributions are Welcome!**
 - **Email**: [My Email](muhamadsalimalwan10@gmail.com)
-- **Instagram**: [My Instagram](https://www.instagram.com/salimalwan23/?next=%2F)
+- **Instagram**: [My Instagram](https://www.instagram.com/salim.cloud/?next=%2F)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhamad-salim-alwan/)
 - **GitHub**: [My GitHub Profile](https://github.com/salim23-png)
 - **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/muhamadsalimalwan)
